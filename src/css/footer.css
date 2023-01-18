@@ -1,0 +1,49 @@
+.footer {
+    padding-bottom: 96px;
+}
+
+.footer__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__logo__block {
+}
+
+.footer__logo {
+    display: flex;
+    align-items: center;
+}
+
+.footer__title {
+    font-weight: 800;
+    font-size: 42px;
+    color: #FFFFFF;
+    padding-left: 23px;
+}
+
+.footer__email {
+    font-weight: 400;
+    font-size: 27px;
+    color: #707070;
+    padding-top: 2px;
+}
+
+.footer__nav {
+    display: flex;
+    align-items: center;
+    column-gap: 46px;
+}
+
+.nav__a {
+    font-weight: 500;
+    font-size: 28px;
+    color: #707070;
+    transition: .3s all;
+}
+
+.nav__a:hover {
+    color: #326DF9;
+}
+

@@ -1,0 +1,38 @@
+.started {
+    padding: 188px 0 183px;
+}
+
+.started__block {
+    text-align: center;
+}
+
+.started__logo {
+    padding-bottom: 23px;
+}
+
+.started__title {
+    font-weight: 700;
+    font-size: 100px;
+}
+
+.started__text {
+    font-weight: 400;
+    font-size: 43px;
+    padding-bottom: 14px;
+}
+
+.content-block-btn.started_btn {
+    padding: 29px 113px;
+    border-radius: 20px;
+}
+
+.beggin-number.started-num {
+    font-weight: 700;
+    font-size: 38px;
+}
+
+.beggin-number.started-subtext {
+    font-weight: 400;
+    font-size: 38px;
+    color: #707070;
+}

@@ -1,0 +1,47 @@
+.creators {
+    text-align: center;
+    padding-bottom: 162px;
+}
+
+.creators-title {
+    font-weight: 600;
+    font-size: 75px;
+    padding-bottom: 64px;
+}
+
+.creators-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 107px;
+}
+
+.creators-content {}
+
+.creators-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+}
+
+.creators-item-title {
+    font-weight: 600;
+    font-size: 35px;
+    padding-left: 8px;
+}
+
+.creators-text {
+    font-weight: 400;
+    font-size: 22px;
+    color: #707070;
+}
+
+
+
+
+
+
+
+
+

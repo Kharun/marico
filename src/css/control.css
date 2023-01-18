@@ -1,0 +1,12 @@
+.control {
+    padding: 301px 0 288px 0;
+    text-align: center;
+    background: url('../img/control_img.png') center;
+}
+
+.control__text {
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 105px;
+    color: #FFFFFF;
+}

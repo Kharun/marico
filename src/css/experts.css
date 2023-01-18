@@ -1,0 +1,11 @@
+.experts {
+    text-align: center;
+    margin-top: 305px;
+    padding-bottom: 188px;
+}
+
+.experts__title {
+    font-weight: 600;
+    font-size: 75px;
+    padding-bottom: 52px;
+}

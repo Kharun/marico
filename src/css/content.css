@@ -1,0 +1,151 @@
+.content {
+    padding-bottom: 170px;
+}
+
+.content-beggin {
+    text-align: center;
+    padding-bottom: 182px;
+}
+
+.content-subtitle {
+    font-weight: 600;
+    font-size: 25px;
+    color: #3D82F2;
+}
+
+.content-title {
+    font-weight: 600;
+    font-size: 75px;
+    text-align: center;
+}
+
+.content-text {
+    font-weight: 400;
+    font-size: 30px;
+    color: #707070;
+    padding-bottom: 34px;
+}
+
+.content-btn {
+    font-weight: 500;
+    font-size: 20px;
+    color: #707070;
+    border: 1px solid #707070;
+    border-radius: 10px;
+    padding: 24px 38px;
+    cursor: pointer;
+    background: none;
+}
+
+.content-btn:hover {
+    background: #306EF7;
+    color: #fff;
+    border: 1px solid #306EF7;
+}
+
+.content-block {
+    width: 50%;
+}
+
+.content-content {
+    display: flex;
+    position: relative;
+}
+
+.content-img-block {
+    position: absolute;
+    display: flex;
+    left: 915px;
+}
+
+.content-img {
+    z-index: 2;
+}
+
+.content-img-grey::before {
+    content: '';
+    height: 276px;
+    width: 309px;
+    background: #8B8B8B;
+    position: absolute;
+    top: 439px;
+    left: 430px;
+    z-index: -1;
+}
+
+.content-block-row {
+    font-weight: 500;
+    font-size: 30px;
+
+    padding-bottom: 80px;
+}
+
+.content-block-title {
+    font-weight: 600;
+    font-size: 75px;
+    padding-bottom: 27px;
+}
+
+.content-block-span {
+    color: #3C82F4;
+}
+
+.content-number {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 10px;
+}
+
+.content-block-number {
+    display: flex;
+    align-items: center;
+}
+
+.content-block-num {
+    background: #2D2D2D;
+    border-radius: 50%;
+    width: 33px;
+    height: 33px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 12px;
+}
+
+.content-block-text {
+    font-weight: 400;
+    font-size: 23px;
+}
+
+.content-btns {
+    display: flex;
+    column-gap: 24px;
+    padding-top: 66px;
+}
+
+.content-block-btn {
+    font-weight: 500;
+    font-size: 20px;
+    color: #707070;
+    border: 1px solid #707070;
+    border-radius: 10px;
+    padding: 18px 21px;
+    cursor: pointer;
+    background: none;
+}
+
+.content-block-btn:hover {
+    background: #306EF7;
+    color: #fff;
+    border: 1px solid #306EF7;
+}
+
+
+
+
+
+
+
+
+
+
